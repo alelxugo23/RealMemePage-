@@ -1,0 +1,51 @@
+
+body {
+    background-image:url(https://i.insider.com/5e506642a9f40c0b63695504?width=600&format=jpeg&auto=webp);
+   
+}
+
+.blog-button {
+    color:whitesmoke;
+    padding: 50px;
+    border-color: whitesmoke;
+    margin-block-start: 0px ;
+    margin-inline-start: 700px;
+    background-color:black;
+    position: fixed; 
+}
+
+.gallery-button {
+    color:whitesmoke;
+    padding: 50px;
+    border-color: whitesmoke;
+    margin-block-start: 0px ;
+    margin-inline-start: 100px;
+    background-color:black;
+    position: fixed;  
+}
+
+.about-button {
+    color: whitesmoke;
+    padding: 50px;
+    border-color: whitesmoke;
+    margin-block-start: 0px ;
+    margin-inline-start: 1280px;
+    background-color:black;
+    position: fixed;
+}
+
+.title {
+    color:black;
+    text-align: center;
+    font-style: oblique;
+    font-size: 220px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.text {
+    color:whitesmoke;
+    text-align: center;
+    font-style: italic;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+}

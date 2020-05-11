@@ -1,0 +1,27 @@
+body {
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-color: black;
+    overflow: scroll;
+
+}
+
+.title {
+    color:whitesmoke;
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    text-align: center;
+    
+    
+    }
+
+    .text {
+        color: whitesmoke;
+        text-align: center;
+        font-style: italic;
+        font-size: 70px;
+        font-family: 'Times New Roman', Times, serif;
+        background-color: #00000070;
+    }
+    

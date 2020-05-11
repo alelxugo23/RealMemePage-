@@ -1,0 +1,23 @@
+body {
+    background-repeat: no-repeat;
+    background-image: url(https://img.buzzfeed.com/buzzfeed-static/static/2019-11/22/19/enhanced/8ec921b40144/original-780-1574449339-2.jpg?crop=1245:622;0,35);
+}
+
+.title {
+    color: black;
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    text-align: center;
+    
+    
+    }
+
+    .text {
+        color: black;
+        line-height: 85px;
+        text-align: justify;
+        font-style: italic;
+        font-size: 46px;
+        font-family: 'Times New Roman', Times, serif;
+    }
